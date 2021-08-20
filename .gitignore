@@ -16,6 +16,12 @@
 # Mono auto generated files
 mono_crash.*
 
+# python coverage and mutation test output
+**/.mutmut*/
+**/coverage.xml
+**/.coverage
+**/html
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/

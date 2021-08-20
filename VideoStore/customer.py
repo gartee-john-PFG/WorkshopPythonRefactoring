@@ -63,6 +63,7 @@ class Movie(object):
     def getTitle (self):
         return self.title
 
+
 class Rental(object):
     def __init__(self, movie, daysRented):
         self.movie = movie
