@@ -1,0 +1,4 @@
+Rental Record for Test Customer
+	Star Wars	0
+Amount owed is 2
+You earned 1 frequent renter points
