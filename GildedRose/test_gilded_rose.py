@@ -10,8 +10,8 @@ def test_what_does_update_items_do():
         "Backstage passes to a TAFKAL80ETC concert",
         "Sulfuras, Hand of Ragnaros",
     ]
-    sell_in = [-1, 0, 5, 6, 10, 11]
-    quality = [0, 1, 48, 49, 50]
+    sell_in = [-1, 0, 1, 5, 6, 10, 11]
+    quality = [-1, 0, 1, 2, 48, 49, 50]
 
     # result = update_item('foo', 0, 0)
     # verify(result, reporter)

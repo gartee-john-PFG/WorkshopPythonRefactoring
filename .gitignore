@@ -17,7 +17,7 @@
 mono_crash.*
 
 # python coverage and mutation test output
-**/.mutmut*/
+**/.mutmut*
 **/coverage.xml
 **/.coverage
 **/html
